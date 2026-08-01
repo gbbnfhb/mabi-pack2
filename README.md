@@ -1,3 +1,9 @@
+元ネタ:https://github.com/regomne/mabi-pack2  
+rustからc++に変換したもの。AI使用  
+  
+  
+    
+  
 # Mabinogi Pack Utilities 2
 
 **It seems that the game developers don't want their packages being unpacked, so this repository WILL NOT UPDATE ANY MORE.**
