@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\mabi-pack2\build\CMakeFiles\493f8170974a6c1ebe2701ad9b811fdd\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{762871C9-FF15-3E79-8E0B-9A6F69CB0C2C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

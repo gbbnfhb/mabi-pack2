@@ -1,0 +1,6 @@
+C:/mabi-pack2/build/CMakeFiles/mabi_pack2_lib.dir
+C:/mabi-pack2/build/CMakeFiles/mabi-pack2.dir
+C:/mabi-pack2/build/CMakeFiles/mabi-pack2-tests.dir
+C:/mabi-pack2/build/CMakeFiles/RUN_TESTS.dir
+C:/mabi-pack2/build/CMakeFiles/ALL_BUILD.dir
+C:/mabi-pack2/build/CMakeFiles/ZERO_CHECK.dir
